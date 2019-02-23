@@ -1,0 +1,20 @@
+namespace Violations.Migrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class _017 : DbMigration
+    {
+        public override void Up()
+        {
+            AddColumn("dbo.AllowedViolationsWorkflows", "InfractionType", c => c.String());
+            AddColumn("dbo.NotAllowedViolationsWorkflows", "InfractionType", c => c.String());
+        }
+        
+        public override void Down()
+        {
+            DropColumn("dbo.NotAllowedViolationsWorkflows", "InfractionType");
+            DropColumn("dbo.AllowedViolationsWorkflows", "InfractionType");
+        }
+    }
+}

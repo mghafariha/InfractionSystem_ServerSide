@@ -1,0 +1,200 @@
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\roslyn\csc.exe
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\roslyn\System.Collections.Immutable.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\roslyn\vbc.exe
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\roslyn\VBCSCompiler.exe
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\roslyn\VBCSCompiler.exe.config
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Violations.dll.config
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Violations.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Violations.pdb
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Antlr3.Runtime.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\EntityFramework.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\EntityFramework.SqlServer.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.Owin.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.Owin.Security.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.Owin.Security.Google.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.Web.Infrastructure.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Newtonsoft.Json.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Owin.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Net.Http.Formatting.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Web.Helpers.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Web.Http.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Web.Http.Owin.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Web.Http.WebHost.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Web.Mvc.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Web.Optimization.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Web.Razor.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Web.WebPages.Deployment.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Web.WebPages.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Web.WebPages.Razor.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\WebGrease.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Antlr3.Runtime.pdb
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\EntityFramework.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\EntityFramework.SqlServer.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.Owin.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.Owin.Security.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.Owin.Security.Google.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\Newtonsoft.Json.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Net.Http.Formatting.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Web.Helpers.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Web.Http.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Web.Http.Owin.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Web.Http.WebHost.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Web.Mvc.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Web.Optimization.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Web.Razor.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Web.WebPages.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Web.WebPages.Deployment.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\bin\System.Web.WebPages.Razor.xml
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\obj\Debug\Violations.dll
+c:\users\nikpour\documents\visual studio 2015\Projects\Violations\Violations\obj\Debug\Violations.pdb
+E:\Violations\Violations\bin\roslyn\csc.exe
+E:\Violations\Violations\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Violations\Violations\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Violations\Violations\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Violations\Violations\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Violations\Violations\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Violations\Violations\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Violations\Violations\bin\roslyn\System.Collections.Immutable.dll
+E:\Violations\Violations\bin\roslyn\System.Reflection.Metadata.dll
+E:\Violations\Violations\bin\roslyn\vbc.exe
+E:\Violations\Violations\bin\roslyn\VBCSCompiler.exe
+E:\Violations\Violations\bin\roslyn\VBCSCompiler.exe.config
+E:\Violations\Violations\bin\Violations.dll.config
+E:\Violations\Violations\bin\Violations.dll
+E:\Violations\Violations\bin\Violations.pdb
+E:\Violations\Violations\bin\Antlr3.Runtime.dll
+E:\Violations\Violations\bin\EntityFramework.dll
+E:\Violations\Violations\bin\EntityFramework.SqlServer.dll
+E:\Violations\Violations\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Violations\Violations\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Violations\Violations\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Violations\Violations\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Violations\Violations\bin\Microsoft.Owin.dll
+E:\Violations\Violations\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Violations\Violations\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Violations\Violations\bin\Microsoft.Owin.Security.dll
+E:\Violations\Violations\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Violations\Violations\bin\Microsoft.Owin.Security.Google.dll
+E:\Violations\Violations\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Violations\Violations\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Violations\Violations\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Violations\Violations\bin\Microsoft.Web.Infrastructure.dll
+E:\Violations\Violations\bin\Newtonsoft.Json.dll
+E:\Violations\Violations\bin\Owin.dll
+E:\Violations\Violations\bin\System.Net.Http.Formatting.dll
+E:\Violations\Violations\bin\System.Web.Helpers.dll
+E:\Violations\Violations\bin\System.Web.Http.dll
+E:\Violations\Violations\bin\System.Web.Http.Owin.dll
+E:\Violations\Violations\bin\System.Web.Http.WebHost.dll
+E:\Violations\Violations\bin\System.Web.Mvc.dll
+E:\Violations\Violations\bin\System.Web.Optimization.dll
+E:\Violations\Violations\bin\System.Web.Razor.dll
+E:\Violations\Violations\bin\System.Web.WebPages.Deployment.dll
+E:\Violations\Violations\bin\System.Web.WebPages.dll
+E:\Violations\Violations\bin\System.Web.WebPages.Razor.dll
+E:\Violations\Violations\bin\WebGrease.dll
+E:\Violations\Violations\bin\Antlr3.Runtime.pdb
+E:\Violations\Violations\bin\EntityFramework.xml
+E:\Violations\Violations\bin\EntityFramework.SqlServer.xml
+E:\Violations\Violations\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Violations\Violations\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Violations\Violations\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Violations\Violations\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Violations\Violations\bin\Microsoft.Owin.xml
+E:\Violations\Violations\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Violations\Violations\bin\Microsoft.Owin.Security.xml
+E:\Violations\Violations\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Violations\Violations\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Violations\Violations\bin\Microsoft.Owin.Security.Google.xml
+E:\Violations\Violations\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Violations\Violations\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Violations\Violations\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Violations\Violations\bin\Newtonsoft.Json.xml
+E:\Violations\Violations\bin\System.Net.Http.Formatting.xml
+E:\Violations\Violations\bin\System.Web.Helpers.xml
+E:\Violations\Violations\bin\System.Web.Http.xml
+E:\Violations\Violations\bin\System.Web.Http.Owin.xml
+E:\Violations\Violations\bin\System.Web.Http.WebHost.xml
+E:\Violations\Violations\bin\System.Web.Mvc.xml
+E:\Violations\Violations\bin\System.Web.Optimization.xml
+E:\Violations\Violations\bin\System.Web.Razor.xml
+E:\Violations\Violations\bin\System.Web.WebPages.xml
+E:\Violations\Violations\bin\System.Web.WebPages.Deployment.xml
+E:\Violations\Violations\bin\System.Web.WebPages.Razor.xml
+E:\Violations\Violations\obj\Debug\Violations.dll
+E:\Violations\Violations\obj\Debug\Violations.pdb
+E:\Violations\Violations\obj\Debug\Violations.Migrations._001.resources
+E:\Violations\Violations\obj\Debug\Violations.csproj.GenerateResource.Cache
+E:\Violations\Violations\obj\Debug\Violations.Migrations._002.resources
+E:\Violations\Violations\obj\Debug\Violations.Migrations._003.resources
+E:\Violations\Violations\obj\Debug\Violations.Migrations._004.resources
+E:\Violations\Violations\obj\Debug\Violations.Migrations._005.resources
+E:\Violations\Violations\obj\Debug\Violations.Migrations._006.resources
+E:\Violations\Violations\bin\Microsoft.Data.Edm.dll
+E:\Violations\Violations\bin\Microsoft.Data.OData.dll
+E:\Violations\Violations\bin\System.Spatial.dll
+E:\Violations\Violations\bin\System.Web.Http.OData.dll
+E:\Violations\Violations\bin\Microsoft.Data.Edm.xml
+E:\Violations\Violations\bin\Microsoft.Data.OData.xml
+E:\Violations\Violations\bin\System.Spatial.xml
+E:\Violations\Violations\bin\System.Web.Http.OData.xml
+E:\Violations\Violations\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Violations\Violations\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Violations\Violations\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Violations\Violations\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Violations\Violations\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Violations\Violations\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Violations\Violations\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Violations\Violations\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Violations\Violations\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Violations\Violations\bin\de\Microsoft.Data.OData.resources.dll
+E:\Violations\Violations\bin\es\Microsoft.Data.OData.resources.dll
+E:\Violations\Violations\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Violations\Violations\bin\it\Microsoft.Data.OData.resources.dll
+E:\Violations\Violations\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Violations\Violations\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Violations\Violations\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Violations\Violations\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Violations\Violations\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Violations\Violations\bin\de\System.Spatial.resources.dll
+E:\Violations\Violations\bin\es\System.Spatial.resources.dll
+E:\Violations\Violations\bin\fr\System.Spatial.resources.dll
+E:\Violations\Violations\bin\it\System.Spatial.resources.dll
+E:\Violations\Violations\bin\ja\System.Spatial.resources.dll
+E:\Violations\Violations\bin\ko\System.Spatial.resources.dll
+E:\Violations\Violations\bin\ru\System.Spatial.resources.dll
+E:\Violations\Violations\bin\zh-Hans\System.Spatial.resources.dll
+E:\Violations\Violations\bin\zh-Hant\System.Spatial.resources.dll
+E:\Violations\Violations\obj\Debug\Violations.Migrations._010.resources
+E:\Violations\Violations\obj\Debug\Violations.Migrations.updatedatabase.resources
+E:\Violations\Violations\obj\Debug\Violations.Migrations._017.resources
+E:\Violations\Violations\obj\Debug\Violations.Migrations._020.resources
+E:\Violations\Violations\obj\Debug\Violations.Migrations._022.resources
+E:\Violations\Violations\obj\Debug\Violations.csprojResolveAssemblyReference.cache
