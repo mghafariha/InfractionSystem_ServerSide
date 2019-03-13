@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Data;
 using System.Data.Entity;
 using System.Data.Entity.Infrastructure;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
@@ -21,6 +22,12 @@ namespace Violations.Controllers
         public IQueryable<NotAllowedViolationsViewModel> GetNotAllowedViolations()
         {
             return db.Database.SqlQuery<NotAllowedViolationsViewModel>("getNotAllowViolation").AsQueryable();
+        }
+        [Queryable]
+        public IQueryable<NotAllowedViolationsViewModel> GetNotAllowedViolations(string type)
+        {
+
+            return db.Database.SqlQuery<NotAllowedViolationsViewModel>("getNotAllowViolation @type", new SqlParameter("type", type)).AsQueryable();
         }
 
         // GET: api/NotAllowedViolations/5

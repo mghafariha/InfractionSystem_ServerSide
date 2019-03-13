@@ -145,7 +145,7 @@ body.hold-transition .main-header .logo {
 .content {
   min-height: 250px;
   padding: 15px;
-  margin-right: auto;
+  margin-right: 16%;
   margin-left: auto;
   padding-left: 15px;
   padding-right: 15px;
@@ -312,6 +312,7 @@ a:focus {
 .content-header {
   position: relative;
   padding: 15px 15px 0 15px;
+  margin-right:16%;
 }
 .content-header > h1 {
   margin: 0;
@@ -421,7 +422,7 @@ a:focus {
   right:0;
   padding-top: 50px;
   min-height: 100%;
-  width: 230px;
+  width: 15%;
   z-index: 810;
   -webkit-transition: -webkit-transform 0.3s ease-in-out, width 0.3s ease-in-out;
   -moz-transition: -moz-transform 0.3s ease-in-out, width 0.3s ease-in-out;
@@ -627,6 +628,9 @@ a:focus {
     width: 180px;
     left: 50px;
   }
+  .text-right-container{
+    padding-right:10px;
+  }
   .sidebar-mini.sidebar-collapse .sidebar-menu > li:hover > a > span {
     top: 0;
     margin-left: -3px;
@@ -684,6 +688,10 @@ a:focus {
   right: 10px;
   top: 50%;
   margin-top: -7px;
+  
+}
+.treeview li >a > span .text-right-container{
+ padding-right:10px;
 }
 /*
  * Component: Control sidebar. By default, this is the right sidebar.

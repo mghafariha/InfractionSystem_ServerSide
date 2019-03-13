@@ -4,6 +4,7 @@ using System.Data;
 using System.Data.Entity;
 using System.Data.Entity.Core.Objects;
 using System.Data.Entity.Infrastructure;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
@@ -30,7 +31,16 @@ namespace Violations.Controllers
             return db.Database.SqlQuery<AllowedViolationsViewModel>("getAllowViolation").AsQueryable();
              
         }
+        [Queryable]
+        public IQueryable<AllowedViolationsViewModel> GetAllowedViolations(string type )
+        {
+            SqlParameter p=new  SqlParameter();
+            p.ParameterName = "type";
+           
+            p.Value=type;
+            return db.Database.SqlQuery<AllowedViolationsViewModel>("getAllowViolation @type",new SqlParameter("type",type)).AsQueryable();
 
+        }
         // GET: api/AllowedViolations/5
         [ResponseType(typeof(AllowedViolations))]
         public IHttpActionResult GetAllowedViolations(int id)

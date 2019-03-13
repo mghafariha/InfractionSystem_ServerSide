@@ -17,17 +17,17 @@ namespace Violations
 
             public DataAccessBase()
             {
-                this.Cs = "Data Source=.;Initial Catalog=InfractionDB;user id=sa;password=P@ssw0rd";
+              this.Cs = "Data Source=.;Initial Catalog=InfractionDB;user id=sa;password=P@ssw0rd";
 
-                //this.Cs = "Data Source=172.16.33.252;Initial Catalog=InfractionDB;user id=sa;password=P@ssw0rd";
+             // this.Cs = "Data Source=172.16.33.252;Initial Catalog=InfractionDB;user id=sa;password=P@ssw0rd";
                 this.Cn = null;
                 this.Cmd = null;
             }
 
             public DataAccessBase(string ConnectionString)
             {
-                this.Cs = "Data Source=.;Initial Catalog=InfractionDB;user id=sa;password=P@ssw0rd";
-              // this.Cs = "Data Source=172.16.33.252;Initial Catalog=InfractionDB;user id=sa;password=P@ssw0rd";
+              this.Cs = "Data Source=.;Initial Catalog=InfractionDB;user id=sa;password=P@ssw0rd";
+               //  this.Cs = "Data Source=172.16.33.252;Initial Catalog=InfractionDB;user id=sa;password=P@ssw0rd";
                 this.Cn = null;
                 this.Cmd = null;
                 this.Cs = ConnectionString;
